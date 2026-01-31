@@ -19,10 +19,12 @@ CodeAlpha_Tasks/
 
 │ └── (Task 1 related files)
 │
+
 ├── Task_2/
 
 │ └── (Task 2 related files)
 │
+
 ├── Task_3/
 
 │ └── (Task 3 related files)
