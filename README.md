@@ -14,14 +14,17 @@ Each task demonstrates my understanding of programming concepts, problem-solving
 ## 📂 Repository Structure
 The repository is organized task-wise for better clarity and maintenance.
 CodeAlpha_Tasks/
-│
+
 ├── Task_1/
+
 │ └── (Task 1 related files)
 │
 ├── Task_2/
+
 │ └── (Task 2 related files)
 │
 ├── Task_3/
+
 │ └── (Task 3 related files)
 │
 └── README.md
